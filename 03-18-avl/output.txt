@@ -1,0 +1,4 @@
+bjkfbjkfdsbjk 
+
+String input is: vghjvghj
+Int input is: 234567

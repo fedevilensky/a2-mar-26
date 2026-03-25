@@ -1,0 +1,7 @@
+write "exit" to stop the program
+Tree size is 1
+Tree height is 1
+write "exit" to stop the program
+Tree size is 2
+Tree height is 2
+write "exit" to stop the program
